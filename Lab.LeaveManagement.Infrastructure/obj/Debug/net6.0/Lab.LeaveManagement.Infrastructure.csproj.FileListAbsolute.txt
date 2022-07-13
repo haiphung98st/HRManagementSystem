@@ -1,0 +1,17 @@
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\bin\Debug\net6.0\Lab.LeaveManagement.Infrastructure.deps.json
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\bin\Debug\net6.0\Lab.LeaveManagement.Infrastructure.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\bin\Debug\net6.0\Lab.LeaveManagement.Infrastructure.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\obj\Debug\net6.0\Lab.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\obj\Debug\net6.0\Lab.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\obj\Debug\net6.0\Lab.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\obj\Debug\net6.0\Lab.LeaveManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\obj\Debug\net6.0\Lab.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\obj\Debug\net6.0\Lab.LeaveManagement.Infrastructure.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\obj\Debug\net6.0\refint\Lab.LeaveManagement.Infrastructure.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\obj\Debug\net6.0\Lab.LeaveManagement.Infrastructure.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\obj\Debug\net6.0\ref\Lab.LeaveManagement.Infrastructure.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\bin\Debug\net6.0\Lab.LeaveManagement.Application.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\bin\Debug\net6.0\Lab.LeaveManagement.Domain.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\bin\Debug\net6.0\Lab.LeaveManagement.Application.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\bin\Debug\net6.0\Lab.LeaveManagement.Domain.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Infrastructure\obj\Debug\net6.0\Lab.LeaveManagement.Infrastructure.csproj.CopyComplete

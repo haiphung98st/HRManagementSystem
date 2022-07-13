@@ -1,0 +1,12 @@
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Identity\bin\Debug\net6.0\Lab.LeaveManagement.Identity.deps.json
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Identity\bin\Debug\net6.0\Lab.LeaveManagement.Identity.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Identity\bin\Debug\net6.0\Lab.LeaveManagement.Identity.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Identity\obj\Debug\net6.0\Lab.LeaveManagement.Identity.csproj.AssemblyReference.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Identity\obj\Debug\net6.0\Lab.LeaveManagement.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Identity\obj\Debug\net6.0\Lab.LeaveManagement.Identity.AssemblyInfoInputs.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Identity\obj\Debug\net6.0\Lab.LeaveManagement.Identity.AssemblyInfo.cs
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Identity\obj\Debug\net6.0\Lab.LeaveManagement.Identity.csproj.CoreCompileInputs.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Identity\obj\Debug\net6.0\Lab.LeaveManagement.Identity.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Identity\obj\Debug\net6.0\refint\Lab.LeaveManagement.Identity.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Identity\obj\Debug\net6.0\Lab.LeaveManagement.Identity.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Identity\obj\Debug\net6.0\ref\Lab.LeaveManagement.Identity.dll

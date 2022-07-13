@@ -1,0 +1,15 @@
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\bin\Debug\net6.0\Lab.LeaveManagement.Application.deps.json
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\bin\Debug\net6.0\Lab.LeaveManagement.Application.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\bin\Debug\net6.0\Lab.LeaveManagement.Application.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\bin\Debug\net6.0\Lab.LeaveManagement.Domain.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\bin\Debug\net6.0\Lab.LeaveManagement.Domain.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\obj\Debug\net6.0\Lab.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\obj\Debug\net6.0\Lab.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\obj\Debug\net6.0\Lab.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\obj\Debug\net6.0\Lab.LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\obj\Debug\net6.0\Lab.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\obj\Debug\net6.0\Lab.LeaveManagement.Application.csproj.CopyComplete
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\obj\Debug\net6.0\Lab.LeaveManagement.Application.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\obj\Debug\net6.0\refint\Lab.LeaveManagement.Application.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\obj\Debug\net6.0\Lab.LeaveManagement.Application.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Application\obj\Debug\net6.0\ref\Lab.LeaveManagement.Application.dll

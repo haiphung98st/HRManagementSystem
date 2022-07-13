@@ -1,0 +1,12 @@
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Domain\bin\Debug\net6.0\Lab.LeaveManagement.Domain.deps.json
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Domain\bin\Debug\net6.0\Lab.LeaveManagement.Domain.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Domain\bin\Debug\net6.0\Lab.LeaveManagement.Domain.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Domain\obj\Debug\net6.0\Lab.LeaveManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Domain\obj\Debug\net6.0\Lab.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Domain\obj\Debug\net6.0\Lab.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Domain\obj\Debug\net6.0\Lab.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Domain\obj\Debug\net6.0\Lab.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Domain\obj\Debug\net6.0\Lab.LeaveManagement.Domain.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Domain\obj\Debug\net6.0\refint\Lab.LeaveManagement.Domain.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Domain\obj\Debug\net6.0\Lab.LeaveManagement.Domain.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Domain\obj\Debug\net6.0\ref\Lab.LeaveManagement.Domain.dll

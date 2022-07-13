@@ -1,0 +1,17 @@
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\bin\Debug\net6.0\Lab.LeaveManagement.Persistence.deps.json
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\bin\Debug\net6.0\Lab.LeaveManagement.Persistence.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\bin\Debug\net6.0\Lab.LeaveManagement.Persistence.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\bin\Debug\net6.0\Lab.LeaveManagement.Application.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\bin\Debug\net6.0\Lab.LeaveManagement.Domain.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\bin\Debug\net6.0\Lab.LeaveManagement.Application.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\bin\Debug\net6.0\Lab.LeaveManagement.Domain.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\obj\Debug\net6.0\Lab.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\obj\Debug\net6.0\Lab.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\obj\Debug\net6.0\Lab.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\obj\Debug\net6.0\Lab.LeaveManagement.Persistence.AssemblyInfo.cs
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\obj\Debug\net6.0\Lab.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\obj\Debug\net6.0\Lab.LeaveManagement.Persistence.csproj.CopyComplete
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\obj\Debug\net6.0\Lab.LeaveManagement.Persistence.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\obj\Debug\net6.0\refint\Lab.LeaveManagement.Persistence.dll
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\obj\Debug\net6.0\Lab.LeaveManagement.Persistence.pdb
+C:\Users\haiph\source\repos\Lab.LeaveManagement\Lab.LeaveManagement.Persistence\obj\Debug\net6.0\ref\Lab.LeaveManagement.Persistence.dll

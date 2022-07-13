@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.UnitTest\\Lab.LeaveManagement.UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.Application\\Lab.LeaveManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.Application\\Lab.LeaveManagement.Application.csproj",
+        "projectName": "Lab.LeaveManagement.Application",
+        "projectPath": "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.Application\\Lab.LeaveManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\haiph\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\haiph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.Domain\\Lab.LeaveManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.Domain\\Lab.LeaveManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.Domain\\Lab.LeaveManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.Domain\\Lab.LeaveManagement.Domain.csproj",
+        "projectName": "Lab.LeaveManagement.Domain",
+        "projectPath": "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.Domain\\Lab.LeaveManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\haiph\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\haiph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.UnitTest\\Lab.LeaveManagement.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.UnitTest\\Lab.LeaveManagement.UnitTest.csproj",
+        "projectName": "Lab.LeaveManagement.UnitTest",
+        "projectPath": "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.UnitTest\\Lab.LeaveManagement.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\haiph\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\haiph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.Application\\Lab.LeaveManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\haiph\\source\\repos\\Lab.LeaveManagement\\Lab.LeaveManagement.Application\\Lab.LeaveManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
